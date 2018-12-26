@@ -1,3 +1,10 @@
+### About raw data
+- Some words in paper are cut because of typesetting, and these words are represented as prehalf-backhalf.
+    + These words are taken into consideration whening pre-preprocessing???
+    + If not, this will be a problem when look up in Embedding table.
+	
+
+
 ### About annotation
 - annotation guideline
     + [pdf1](http://ssli.ee.washington.edu/tial/projects/sciIE/annotation_guideline.pdf): more annotation examples.
