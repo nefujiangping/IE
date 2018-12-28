@@ -1,8 +1,9 @@
 ### About raw data
 - Some words in paper are cut because of typesetting, and these words are represented as prehalf-backhalf.
-    + These words are taken into consideration whening pre-preprocessing???
+    + These words are taken into consideration when pre-preprocessing???
     + If not, this will be a problem when look up in Embedding table.
-	
+### Some doubt
+- prediction of relations and corefs' entities aren't in the prediction of entities. But ground truth is different: each entity of relation and coref is definately in the ground truth entity list.
 
 
 ### About annotation
